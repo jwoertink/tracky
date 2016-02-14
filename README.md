@@ -1,5 +1,7 @@
 # Tracky
 
+**NOTE** Under development. Not ready for production use
+
 Ruby gem for the [Tracky API](http://tracky.com/).
 
 ## Installation
