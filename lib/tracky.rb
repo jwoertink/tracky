@@ -2,6 +2,7 @@ require 'tracky/version'
 require 'tracky/configuration'
 require 'tracky/base_api'
 require 'tracky/group'
+require 'tracky/comment'
 require 'json'
 require 'http'
 
